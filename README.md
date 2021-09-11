@@ -1,0 +1,2 @@
+# TemplateScript
+ for be good
